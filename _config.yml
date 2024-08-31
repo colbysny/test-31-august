@@ -2,9 +2,7 @@ theme: jekyll-theme-minimal
 title: Colby Snyder
 logo: /assets/headshot_circle.png
 description: >
-  Hi, I’m Colby! I am a junior at UPenn pursuing dual Bachelor’s degrees in Chemical Engineering and Physics.
-
-  Outside of engineering, I enjoy playing the cello, hiking, and basketball. Feel free to reach out by [email](mailto:colbysny@seas.upenn.edu) or [LinkedIn](https://www.linkedin.com/in/colbysny/) if you’d like to chat!
+  I’m Colby, a junior at UPenn pursuing dual Bachelor’s degrees in Chemical Engineering and Physics. Feel free to reach out by <a href="mailto:colbysny@seas.upenn.edu">email</a> or <a href="https://www.linkedin.com/in/colbysny/">LinkedIn</a> if you’d like to chat!
 
 custom_css: assets/css/custom.css
 
