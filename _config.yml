@@ -3,20 +3,6 @@ title: Colby Snyder
 logo: /assets/headshot_circle.png
 description: Chemical engineering, physics, and materials research @ UPenn
 
+custom_css: assets/css/custom.css
 
-# Inline CSS in _config.yml
-style: |
-  .site-title {
-      text-align: center;
-  }
-
-  .site-description {
-      text-align: center;
-  }
-
-  .site-logo {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-  }
 
