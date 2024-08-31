@@ -1,0 +1,16 @@
+/* Center the site title */
+.site-title {
+    text-align: center;
+}
+
+/* Center the site description */
+.site-description {
+    text-align: center;
+}
+
+/* Center the site logo */
+.site-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
