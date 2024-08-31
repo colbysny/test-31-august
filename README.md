@@ -1,5 +1,11 @@
 # Projects
 
+## Table of Contents
+- [Composite Polymer Electrolytes](#composite-polymer-electrolytes)
+- [Thermal Coating Test Stand](#thermal-coating-test-stand)
+- [Fusion Energy Modeling](#fusion-energy-modeling)
+- [CO2 Capture Reactor Concept](#carbon-upcycled-co2-capture-reactor-concept)
+
 ### Composite Polymer Electrolytes
 
 ![Abstract Figure](assets/electrolyte_abstract.png)
