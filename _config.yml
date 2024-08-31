@@ -5,7 +5,9 @@ description: Chemical engineering, physics, and materials research @ UPenn
 
 # Add navigation links
 navigation:
-  - name: "Projects"
+  - name: "Home"
     link: "/"
-  - name: "Publications"
-    link: "/portfolio/publications/"
+  - name: "Research Projects"
+    link: "/research/"
+  - name: "Other Projects"
+    link: "/other_projects/"
