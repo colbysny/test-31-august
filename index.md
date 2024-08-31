@@ -45,3 +45,5 @@ During an internship at Princeton Plasma Physics Laboratory, I modeled energy ex
 
 I designed a self-sustaining reactor to commercialize innovative chemistry from Brookhaven National Lab (Nature Catalysis 7, 98–109, 2024). The reactor converts CO2 and water into valuable carbon nanofibers, with oxygen and hydrogen as byproducts. The hydrogen and oxygen are then combusted to power a thermocatalytic reactor, making the system truly carbon-negative. This concept could potentially become the first profitable carbon capture reactor in history.
 I conducted a technoeconomic analysis of each process step, complementing my two teammates' research on the CO2 capture and carbon nanofiber markets. The concept was pitched in the Department of Energy’s Energy Tech University Prize competition, where it was selected as a national semifinalist.
+
+[View our pitch here!](./assets/documents/Carbon Upcycled Pitch.pdf)
