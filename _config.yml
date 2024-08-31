@@ -20,11 +20,3 @@ style: |
       margin-right: auto;
   }
 
-# Add navigation links
-navigation:
-  - name: "Home"
-    link: "/"
-  - name: "Research Projects"
-    link: "/research/"
-  - name: "Other Projects"
-    link: "/projects/"
