@@ -3,7 +3,9 @@
 - [Thermal Coating Test Stand](#thermal-coating-test-stand)
 - [Fusion Energy Modeling](#fusion-energy-modeling)
 - [CO2 Capture Reactor Concept](#carbon-upcycled-co2-capture-reactor-concept)
+
 <br><br>
+
 ## Composite Polymer Electrolytes
 
 ![Abstract Figure](assets/electrolyte_abstract.png)
@@ -42,7 +44,7 @@ During an internship at Princeton Plasma Physics Laboratory, I modeled energy ex
 <br><br>
 
 
-### Carbon Upcycled: CO2 Capture Reactor Concept
+## Carbon Upcycled: CO2 Capture Reactor Concept
 
 ![Carbon valorization reaction scheme](assets/reactor_design.png)
 
